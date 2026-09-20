@@ -1,2 +1,6 @@
-int main()
-{}
+#include <iostream>
+
+{
+ std::cout << "Hello,world!n\";
+ 
+}
