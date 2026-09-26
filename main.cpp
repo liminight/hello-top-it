@@ -1,7 +1,5 @@
 #include <iostream>
 int main()
 {
-
- std::cout << "Hi, top-it!\n";
- 
+ std::cout << "Greatings, top-it!\n";
 }
